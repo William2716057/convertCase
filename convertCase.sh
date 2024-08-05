@@ -27,7 +27,7 @@ transform_case() {
 
 # Read input string using IFS
 echo "Enter a string: "
-IFS= read -r input_string
+Characters= read -r input_string
 
 # Initialize output string
 output_string=""
